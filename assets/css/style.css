@@ -1,0 +1,26 @@
+#container {
+    margin: auto;
+    width: 85%;
+
+    position: relative;
+
+    padding: 20px;
+    background-color: bisque;
+
+    text-align: center;
+}
+
+
+#questions {
+    padding: 15px;
+
+    margin: 0 auto;
+
+    background-color: blue;
+    width: 90%;
+
+}
+
+body {
+    background-color: coral;
+}
